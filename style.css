@@ -4,6 +4,7 @@ body{
   background-color: #BCCC9A;
   font-family:  'Dancing Script', cursive;
   margin:auto;
+  margin-right:0;
 }
 h1{
   font-size: 5rem;
